@@ -259,3 +259,5 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/FolderSizes/FolderSizes.txt
+/FolderSizes/InaccessibleFolders.txt
